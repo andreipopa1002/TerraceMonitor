@@ -21,4 +21,6 @@ Hardware:
 
 ### Libraries:
 - ESPAsyncWebServer https://github.com/me-no-dev/ESPAsyncWebServer/ . Dependency: ESPAsyncTCP https://github.com/me-no-dev/ESPAsyncTCP. Source: https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-server-with-arduino-ide/
-- 
+- WiFiManager, https://github.com/tzapu/WiFiManager. Dependency: ESP8266WiFi
+- EasyDDNS, https://github.com/ayushsharma82/EasyDDNS
+
